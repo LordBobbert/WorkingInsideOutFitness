@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "173312919485",
+    "project_id": "elevate-personal-training-hub",
+    "storage_bucket": "elevate-personal-training-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173312919485:android:8768e56dac4773563e34d4",
+        "android_client_info": {
+          "package_name": "com.example.googleauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlM7LNQjSIf6X-GUhR1eTLZdS2ZX13jcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173312919485:android:a8421d69a10c782b3e34d4",
+        "android_client_info": {
+          "package_name": "com.robertuhls.elevatepersonaltraininghub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlM7LNQjSIf6X-GUhR1eTLZdS2ZX13jcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173312919485:android:b831ecf8c560b17f3e34d4",
+        "android_client_info": {
+          "package_name": "com.robertuhls.elevatepersonaltraininghub.util"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173312919485-gmp3ip1l2ersmlr2h00lt60vt8pl0qtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robertuhls.elevatepersonaltraininghub.util",
+            "certificate_hash": "a75c84b0258662a25e8ecc26bee0fbd0c4fd626c"
+          }
+        },
+        {
+          "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlM7LNQjSIf6X-GUhR1eTLZdS2ZX13jcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173312919485:android:77c4106ca532b05e3e34d4",
+        "android_client_info": {
+          "package_name": "com.robertuhls.personaltrainingappdevelopement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173312919485-guf8t2vejkolh52iibtrjucaeqi5ro39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robertuhls.personaltrainingappdevelopement",
+            "certificate_hash": "a75c84b0258662a25e8ecc26bee0fbd0c4fd626c"
+          }
+        },
+        {
+          "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlM7LNQjSIf6X-GUhR1eTLZdS2ZX13jcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173312919485:android:b3234664d9383ea53e34d4",
+        "android_client_info": {
+          "package_name": "com.robertuhls.workinginsideoutfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlM7LNQjSIf6X-GUhR1eTLZdS2ZX13jcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173312919485-1coaur76e94q267fggjf452uo7qn5gui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
